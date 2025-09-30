@@ -11,4 +11,4 @@ Senior Technical Product Owner (Digital Health, Salesforce Modernization)
 - Integrations: Fitbit, Apple Health, Dexcom G7, Libre 3
 
 [Case Studies](/Nick-Nhep/case-studies)  
-[LinkedIn](https://www.linkedin.com/in/yourprofile/) · [Resume (PDF)](#)
+[LinkedIn](https://www.linkedin.com/in/nick-nhep-4849b637/) · [Resume (PDF)](#)
