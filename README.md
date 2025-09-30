@@ -1,5 +1,4 @@
 # Nick-Nhep
-My product portfolio
 ---
 layout: default
 title: Home
