@@ -16,4 +16,4 @@ Experienced product leader specializing in digital health and Salesforce moderni
 ## 📂 Portfolio
 - [Case Studies](./case-studies)
 - [Resume (PDF)](#)
-- [LinkedIn](https://www.linkedin.com/nick-nhep-4849b637/)
+- [LinkedIn](https://www.linkedin.com/nicknhep)
